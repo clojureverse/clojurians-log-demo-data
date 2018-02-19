@@ -1,0 +1,328 @@
+(#:channel{:slack-id "C073DKH9P",
+           :name "re-frame",
+           :created 1435777619,
+           :creator [:user/slack-id "U067NFWUR"]}
+ #:channel{:slack-id "C03S1L9DN",
+           :name "clojurescript",
+           :created 1425233874,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C0E1SN0NM",
+           :name "cljsrn",
+           :created 1446836837,
+           :creator [:user/slack-id "U04VDQDDY"]}
+ #:channel{:slack-id "C0620C0C8",
+           :name "reagent",
+           :created 1433698159,
+           :creator [:user/slack-id "U0522BZ1R"]}
+ #:channel{:slack-id "C0H28NMAS",
+           :name "clojars",
+           :created 1450575830,
+           :creator [:user/slack-id "U06SGCEHJ"]}
+ #:channel{:slack-id "C03S1KBA2",
+           :name "clojure",
+           :created 1425233492,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C7YF1SBT3",
+           :name "reitit",
+           :created 1510516757,
+           :creator [:user/slack-id "U055NJ5CC"]}
+ #:channel{:slack-id "C06B40HMY",
+           :name "remote-jobs",
+           :created 1434340183,
+           :creator [:user/slack-id "U06B3KDHC"]}
+ #:channel{:slack-id "C05006WDW",
+           :name "jobs",
+           :created 1432252868,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C0KL616MN",
+           :name "jobs-discuss",
+           :created 1453988848,
+           :creator [:user/slack-id "U07HVGQJ3"]}
+ #:channel{:slack-id "C0EA48FGA",
+           :name "jobs-rus",
+           :created 1447250753,
+           :creator [:user/slack-id "U0505GFDN"]}
+ #:channel{:slack-id "C0CFGN25D",
+           :name "juxt",
+           :created 1444864779,
+           :creator [:user/slack-id "U050CTFRT"]}
+ #:channel{:slack-id "C0A5GSC6T",
+           :name "ring",
+           :created 1441354275,
+           :creator [:user/slack-id "U09GQG2G2"]}
+ #:channel{:slack-id "C0MDSV2LW",
+           :name "keechma",
+           :created 1455559182,
+           :creator [:user/slack-id "U050986L9"]}
+ #:channel{:slack-id "C06GSN6R2",
+           :name "ring-swagger",
+           :created 1434639771,
+           :creator [:user/slack-id "U061V0GG2"]}
+ #:channel{:slack-id "C0CB40N8K",
+           :name "community-development",
+           :created 1444717724,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C0HHW5CAU",
+           :name "keyboards",
+           :created 1451592866,
+           :creator [:user/slack-id "U0AUVACSC"]}
+ #:channel{:slack-id "C055AMK5Y",
+           :name "clojure-brasil",
+           :created 1433313877,
+           :creator [:user/slack-id "U050BHSPR"]}
+ #:channel{:slack-id "C08H80CUR",
+           :name "rum",
+           :created 1438627841,
+           :creator [:user/slack-id "U07EV8R70"]}
+ #:channel{:slack-id "C061GT4BT",
+           :name "clojure-china",
+           :created 1433600749,
+           :creator [:user/slack-id "U050RF28P"]}
+ #:channel{:slack-id "C0B22RS2Y",
+           :name "lein-figwheel",
+           :created 1442845672,
+           :creator [:user/slack-id "U067NFWUR"]}
+ #:channel{:slack-id "C05423W6H",
+           :name "core-async",
+           :created 1432916929,
+           :creator [:user/slack-id "U050ZCCJV"]}
+ #:channel{:slack-id "C0AB48493",
+           :name "leiningen",
+           :created 1441748918,
+           :creator [:user/slack-id "U08QBRKUL"]}
+ #:channel{:slack-id "C6N245JGG",
+           :name "shadow-cljs",
+           :created 1502793285,
+           :creator [:user/slack-id "U05224H0W"]}
+ #:channel{:slack-id "C06E3HYPR",
+           :name "clojure-dev",
+           :created 1434490413,
+           :creator [:user/slack-id "U064X3EF3"]}
+ #:channel{:slack-id "C09C8GRLY",
+           :name "spacemacs",
+           :created 1440081898,
+           :creator [:user/slack-id "U04VC31U8"]}
+ #:channel{:slack-id "C0744GXCJ",
+           :name "cursive",
+           :created 1435824555,
+           :creator [:user/slack-id "U071MQNLR"]}
+ #:channel{:slack-id "C0FVDQLQ5",
+           :name "specter",
+           :created 1449307825,
+           :creator [:user/slack-id "U066TMAKS"]}
+ #:channel{:slack-id "C077KDE3A",
+           :name "luminus",
+           :created 1436168062,
+           :creator [:user/slack-id "U071MQNLR"]}
+ #:channel{:slack-id "C322LFP1A",
+           :name "lumo",
+           :created 1479076493,
+           :creator [:user/slack-id "U0CK4CKAP"]}
+ #:channel{:slack-id "C06B7L97Y",
+           :name "clojure-greece",
+           :created 1434351585,
+           :creator [:user/slack-id "U06B7NGHX"]}
+ #:channel{:slack-id "C1Q164V29",
+           :name "sql",
+           :created 1467986649,
+           :creator [:user/slack-id "U04V4HWQ4"]}
+ #:channel{:slack-id "C0BQDEJ8M",
+           :name "data-science",
+           :created 1443874948,
+           :creator [:user/slack-id "U0B64LY4F"]}
+ #:channel{:slack-id "C07V8N22C",
+           :name "datascript",
+           :created 1437501711,
+           :creator [:user/slack-id "U07EV8R70"]}
+ #:channel{:slack-id "C065VEW1M",
+           :name "clojure-india",
+           :created 1433936998,
+           :creator [:user/slack-id "U065V6B38"]}
+ #:channel{:slack-id "C0JKW8K62",
+           :name "test-check",
+           :created 1452965803,
+           :creator [:user/slack-id "U050Z29EM"]}
+ #:channel{:slack-id "C03RZMDSH",
+           :name "datomic",
+           :created 1425233178,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C08LK2DH7",
+           :name "testing",
+           :created 1438794926,
+           :creator [:user/slack-id "U067S6YLW"]}
+ #:channel{:slack-id "C055HRXPM",
+           :name "clojure-italy",
+           :created 1433251310,
+           :creator [:user/slack-id "U054W022G"]}
+ #:channel{:slack-id "C1FCQU8RE",
+           :name "defnpodcast",
+           :created 1465465754,
+           :creator [:user/slack-id "U051H0N54"]}
+ #:channel{:slack-id "C061V2K37",
+           :name "devops",
+           :created 1433668467,
+           :creator [:user/slack-id "U061V0GG2"]}
+ #:channel{:slack-id "C0H7M5HFE",
+           :name "mount",
+           :created 1450849504,
+           :creator [:user/slack-id "U0541KMAZ"]}
+ #:channel{:slack-id "C0G922PCH",
+           :name "aleph",
+           :created 1449691660,
+           :creator [:user/slack-id "U0CKE3F9S"]}
+ #:channel{:slack-id "C0J01U7MY",
+           :name "dirac",
+           :created 1452213185,
+           :creator [:user/slack-id "U08E3BBST"]}
+ #:channel{:slack-id "C0PME9N9X",
+           :name "docker",
+           :created 1456840877,
+           :creator [:user/slack-id "U0AJRJ37W"]}
+ #:channel{:slack-id "C08PLCRGT",
+           :name "uncomplicate",
+           :created 1438952099,
+           :creator [:user/slack-id "U086AG324"]}
+ #:channel{:slack-id "C055UK572",
+           :name "docs",
+           :created 1433389185,
+           :creator [:user/slack-id "U04V5T0V8"]}
+ #:channel{:slack-id "C4C63FWP5",
+           :name "unrepl",
+           :created 1488393027,
+           :creator [:user/slack-id "U06F82LES"]}
+ #:channel{:slack-id "C5K1SHR6X",
+           :name "duct",
+           :created 1495994819,
+           :creator [:user/slack-id "U0BKWMG5B"]}
+ #:channel{:slack-id "C1193CCJW",
+           :name "arachne",
+           :created 1460824757,
+           :creator [:user/slack-id "U051YNST9"]}
+ #:channel{:slack-id "C050VDRHW",
+           :name "clojure-nl",
+           :created 1432473946,
+           :creator [:user/slack-id "U04V15CAJ"]}
+ #:channel{:slack-id "C0904S2QJ",
+           :name "architecture",
+           :created 1439372740,
+           :creator [:user/slack-id "U055QP2DT"]}
+ #:channel{:slack-id "C099W16KZ",
+           :name "emacs",
+           :created 1439972719,
+           :creator [:user/slack-id "U07FP7QJ0"]}
+ #:channel{:slack-id "C0DF8R51A",
+           :name "vim-fireplace",
+           :created 1446154917,
+           :creator [:user/slack-id "U087U9YG3"]}
+ #:channel{:slack-id "C17JYSA3H",
+           :name "nrepl",
+           :created 1462888783,
+           :creator [:user/slack-id "U0QAQ8RRN"]}
+ #:channel{:slack-id "C09N0H1RB",
+           :name "aws",
+           :created 1440652842,
+           :creator [:user/slack-id "U04VC31U8"]}
+ #:channel{:slack-id "C08PKSV2L",
+           :name "numerical-computing",
+           :created 1438951477,
+           :creator [:user/slack-id "U086AG324"]}
+ #:channel{:slack-id "C1ZU4NUA2",
+           :name "bangalore-clj",
+           :created 1470811684,
+           :creator [:user/slack-id "U066J7E2U"]}
+ #:channel{:slack-id "C03RZGPG3",
+           :name "off-topic",
+           :created 1425231209,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C06DT2YSY",
+           :name "om",
+           :created 1434478265,
+           :creator [:user/slack-id "U05370GCR"]}
+ #:channel{:slack-id "C0702A7SB",
+           :name "yada",
+           :created 1435604018,
+           :creator [:user/slack-id "U050CTFRT"]}
+ #:channel{:slack-id "C050HE28Y",
+           :name "clojure-russia",
+           :created 1432332716,
+           :creator [:user/slack-id "U0514TE0F"]}
+ #:channel{:slack-id "C03RZRRMP",
+           :name "events",
+           :created 1425234938,
+           :creator [:user/slack-id "U03RZGPFT"]}
+ #:channel{:slack-id "C053AK3F9",
+           :name "beginners",
+           :created 1432806615,
+           :creator [:user/slack-id "U04V0EV9N"]}
+ #:channel{:slack-id "C051WKSP3",
+           :name "onyx",
+           :created 1432575545,
+           :creator [:user/slack-id "U0509NKGK"]}
+ #:channel{:slack-id "C0KQRPPBP",
+           :name "clojure-sanfrancisco",
+           :created 1454105155,
+           :creator [:user/slack-id "U0AFX5QNN"]}
+ #:channel{:slack-id "C1A38UB5X",
+           :name "figwheel",
+           :created 1463622960,
+           :creator [:user/slack-id "U06B6LWMB"]}
+ #:channel{:slack-id "C68M60S4F",
+           :name "fulcro",
+           :created 1499880256,
+           :creator [:user/slack-id "U0CKQ19AQ"]}
+ #:channel{:slack-id "C053K90BR",
+           :name "boot",
+           :created 1432839451,
+           :creator [:user/slack-id "U050TNB9F"]}
+ #:channel{:slack-id "C1B1BB2Q3",
+           :name "clojure-spec",
+           :created 1464019287,
+           :creator [:user/slack-id "U0509RAKV"]}
+ #:channel{:slack-id "C0F2A0MJN",
+           :name "parinfer",
+           :created 1448126147,
+           :creator [:user/slack-id "U086D6TBN"]}
+ #:channel{:slack-id "C0FQERS0H",
+           :name "garden",
+           :created 1449130390,
+           :creator [:user/slack-id "U06N7R4PR"]}
+ #:channel{:slack-id "C07LER212",
+           :name "bristol-clojurians",
+           :created 1436946309,
+           :creator [:user/slack-id "U053AEGBK"]}
+ #:channel{:slack-id "C4DLZKR9T",
+           :name "graphql",
+           :created 1488581928,
+           :creator [:user/slack-id "U050NRE8B"]}
+ #:channel{:slack-id "C0Y3CSPHQ",
+           :name "planck",
+           :created 1459859410,
+           :creator [:user/slack-id "U04VDQDDY"]}
+ #:channel{:slack-id "C064BA6G2",
+           :name "clojure-uk",
+           :created 1433855035,
+           :creator [:user/slack-id "U064A9BQU"]}
+ #:channel{:slack-id "C562XHH0C",
+           :name "portkey",
+           :created 1493379418,
+           :creator [:user/slack-id "U3E46Q1DG"]}
+ #:channel{:slack-id "C08BDAPRA",
+           :name "hoplon",
+           :created 1438202535,
+           :creator [:user/slack-id "U055HMK9L"]}
+ #:channel{:slack-id "C0617A8PQ",
+           :name "cider",
+           :created 1433548153,
+           :creator [:user/slack-id "U051BLM8F"]}
+ #:channel{:slack-id "C08TC9JCS",
+           :name "clara",
+           :created 1439258204,
+           :creator [:user/slack-id "U06DQC6MA"]}
+ #:channel{:slack-id "C085AR8RE",
+           :name "immutant",
+           :created 1437770531,
+           :creator [:user/slack-id "U06E5EETE"]}
+ #:channel{:slack-id "C07UQ678E",
+           :name "cljs-dev",
+           :created 1437483379,
+           :creator [:user/slack-id "U050B88UR"]})
